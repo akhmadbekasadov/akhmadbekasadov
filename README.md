@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akhmadbekasadov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Data Analysis/Data Science/Data Engineering
 - 📫 How to reach me asadov.ae@phystech.edu
 
 <!---
